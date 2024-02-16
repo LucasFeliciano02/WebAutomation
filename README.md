@@ -41,7 +41,7 @@
 
 ```sh
 • Automação web para inserção de produto em um site web conforme em um banco de dados;
-• feito durante uma uma semana de conhecimento em python do canal "Hashtag Programação".
+• Feito durante uma uma semana de conhecimento em python do canal "Hashtag Programação".
 ```
 
 ## :sparkles: Funcionalidades ##
