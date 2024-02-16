@@ -9,7 +9,7 @@
 
 
 <div align="center" id="top">
-  <img alt="Automação" title="Autoamção" src="./automacao.gif"/>
+  <img alt="Automação" title="Automação" src="./automacao.gif"/>
 </h1>
 
  
