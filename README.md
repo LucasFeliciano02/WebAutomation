@@ -40,7 +40,7 @@
 ## :dart: Sobre ##
 
 ```sh
-• Automação web para inserção de produto em um site web conforme o banco de dados;
+• Automação web para inserção de produto em um site web conforme as descrições do banco de dados em formato .CSV;
 • Feito durante uma uma semana de conhecimento em python do canal "Hashtag Programação".
 ```
 
