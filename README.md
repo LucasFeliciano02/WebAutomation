@@ -40,14 +40,14 @@
 ## :dart: Sobre ##
 
 ```sh
-• Automação web para inserção de produto em um site web conforme em um banco de dados;
+• Automação web para inserção de produto em um site web conforme o banco de dados;
 • Feito durante uma uma semana de conhecimento em python do canal "Hashtag Programação".
 ```
 
 ## :sparkles: Funcionalidades ##
 
 
-:heavy_check_mark: Inserir de forma automatica descrição de vários produto em uma base de dados online;\
+:heavy_check_mark: Preencher de forma automática a descrição de vários produtos em um formulário de um site web;\
 :heavy_check_mark: Otimização de tempo.
 
 ## :rocket: Tecnologias ##
