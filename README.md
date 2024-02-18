@@ -98,7 +98,8 @@ Além disto é bom ter um editor para trabalhar com o código, tal como: [VS Cod
 # Baixar Run Code em extensões, Pyautogui no terminal e DESFRUTAR DO CÓDIGO
  -> terminal -> pip install Pyautogui
 
-# OBS: Utilizar o arquivo "posicao.py" para saber a posição certa do seu mouse em seu monitor pois estas escalas varia de monitor para monitor
+# OBS:
+Utilizar o arquivo "posicao.py" para saber a posição certa do seu mouse em seu monitor pois estas escalas podem variar 
 ```
 
 
